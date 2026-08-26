@@ -7,3 +7,4 @@ vat = price * 0.07
 st.header(f"• ราคาสุทธิ: {net_price:.2f} บาท")
 st.divider()
 st.write("นายธนิษฐ์ หล้าปวน เลขที่ 4  ม.4/17")
+
